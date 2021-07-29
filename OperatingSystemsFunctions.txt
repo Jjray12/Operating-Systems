@@ -1,0 +1,3 @@
+A function of all operating systems is added security.
+We are able to add password protection to protect our important, and private files.
+This also means that we can keep unwanted users out.
