@@ -6,3 +6,6 @@ Another function of the operating system is handling input and output operations
 The operating system is what enables a keyboard or mouse to work. 
 It is also what allows the computer to output that information onto a monitor.
 
+The operating system also handles the execution of running programs.
+Because of this the computer will optimize how best to run that program.
+This includes when a user chooses to run a program and when the computer itself needs to run a system program.
